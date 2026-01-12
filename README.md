@@ -1,0 +1,2 @@
+# Crear sitio utilizando la API de restcountries
+Crear un sitio tomando como referencia la API:  https://restcountries.com/v3.1/all?fields=name,flags,capital,currencies,languages,population  NOTA: Debe utilizar componentes de bootstrap. Anexar un solo archivo html con el código (html, css y js). Anexar un archivo PDF con capturas de pantalla del resultado final, y una sección de explicación del proyecto.
